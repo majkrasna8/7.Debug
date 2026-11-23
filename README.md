@@ -1,15 +1,15 @@
 
-2. **Open in Android Studio:**
+1. **Open in Android Studio:**
    - Launch Android Studio.
    - Select **File > Open...** and navigate to the project directory.
 
-3. **Build & Run:**
+2. **Build & Run:**
    - Wait for Gradle sync to complete.
    - Click **Run** (`Shift + F10`) or **Debug** (`Shift + F9`).
 
 ---
 
-## 🐞 Debugging Exercises Included
+3 **🐞 Debugging Exercises Included**
 
 This project is configured for practicing Android Studio Debugger tools:
 
