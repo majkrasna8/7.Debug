@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Debug</string>
+    <string name="hint_first_number">Enter first number</string>
+    <string name="hint_second_number">Enter second number</string>
+    <string name="btn_add">ADD</string>
+    <string name="btn_sub">SUB</string>
+    <string name="btn_div">DIV</string>
+    <string name="btn_mul">MUL</string>
+    <string name="cannot_divide_by_zero">Cannot divide by zero</string>
+    <string name="please_enter_both_numbers">Please enter both numbers</string>
+    <string name="invalid_input">Invalid input</string>
+</resources>
