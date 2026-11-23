@@ -1,4 +1,3 @@
-##Debug
 1. **Open in Android Studio:**
    - Launch Android Studio.
    - Select **File > Open...** and navigate to the project directory.
